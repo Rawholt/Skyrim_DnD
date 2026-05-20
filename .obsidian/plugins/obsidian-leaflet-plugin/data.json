@@ -1,0 +1,200 @@
+{
+  "mapMarkers": [
+    {
+      "id": "skyrim-map",
+      "lastAccessed": 1778844052172,
+      "markers": [
+        {
+          "id": "ID_4979ca298bd9",
+          "type": "default",
+          "loc": [
+            -1276.2000122070312,
+            1181.2000122070312
+          ],
+          "link": "Имперская тюрьма (начало)",
+          "layer": "%5B%5BSkyrimMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4724800048828125,
+            0.9076813742582015
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b4ae8eaaae9",
+          "type": "default",
+          "loc": [
+            -1162.4000091552734,
+            1089.9500122070312
+          ],
+          "link": "Фолкрит",
+          "layer": "%5B%5BSkyrimMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9182a28ab99",
+          "type": "default",
+          "loc": [
+            -407.8000183105469,
+            95.20001220703125
+          ],
+          "link": "Карта скайрима",
+          "layer": "%5B%5BFalkreath.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.19916320545404026,
+            0.9418014279689304
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29fbe8baf918",
+          "type": "default",
+          "loc": [
+            -264.8000030517578,
+            159.30001831054688
+          ],
+          "layer": "%5B%5BFalkreath.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3332636366329432,
+            0.611547351158794
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49a86bda5aaa",
+          "type": "default",
+          "loc": [
+            -305.3999938964844,
+            242.39999389648438
+          ],
+          "layer": "%5B%5BFalkreath.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5071129579424359,
+            0.705311764195114
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a18697b6929",
+          "type": "default",
+          "loc": [
+            -308.4000015258789,
+            312.2749938964844
+          ],
+          "layer": "%5B%5BFalkreath.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_598a0ad92a2b",
+          "type": "default",
+          "loc": [
+            -237.3000030517578,
+            312.5999755859375
+          ],
+          "layer": "%5B%5BFalkreath.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.653974844322045,
+            0.5480369585490943
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49d8db388939",
+          "type": "default",
+          "loc": [
+            -332.3999938964844,
+            184.10000610351562
+          ],
+          "layer": "%5B%5BFalkreath.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.38514645628350547,
+            0.7676674223937283
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Карта скайрима.md",
+        "Maps/Фолкрит.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

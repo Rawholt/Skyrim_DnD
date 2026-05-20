@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/Rawholt/Skyrim_DnD.git",
+  "gitLocation": "C:\\Program Files\\Git\\cmd\\git.exe",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
