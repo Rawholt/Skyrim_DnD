@@ -243,11 +243,10 @@
       "templater-obsidian:Templater": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "02ded2923f13088e",
+  "active": "727cf11106c14ec9",
   "lastOpenFiles": [
     "Новый текстовый документ.txt",
     "Навыки/Восстановление.md",
