@@ -2,22 +2,22 @@
   "mapMarkers": [
     {
       "id": "skyrim-map",
-      "lastAccessed": 1778844052172,
+      "lastAccessed": 1779376508439,
       "markers": [
         {
           "id": "ID_4979ca298bd9",
           "type": "default",
           "loc": [
-            -1276.2000122070312,
-            1181.2000122070312
+            -1270.2000122070312,
+            1207
           ],
           "link": "Имперская тюрьма (начало)",
           "layer": "%5B%5BSkyrimMap.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.4724800048828125,
-            0.9076813742582015
+            0.4828,
+            0.9034139489381445
           ],
           "description": null,
           "minZoom": null,
@@ -157,8 +157,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Maps/Карта скайрима.md",
-        "Maps/Фолкрит.md"
+        "Maps/Карта скайрима.md"
       ]
     }
   ],
