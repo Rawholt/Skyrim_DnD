@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "skyrim-map",
-      "lastAccessed": 1780567773993,
+      "lastAccessed": 1780568905115,
       "markers": [
         {
           "id": "ID_4979ca298bd9",
@@ -189,7 +189,6 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Maps/Карта скайрима.md",
         "Maps/Новая карта (Leaflet).md"
       ]
     }
