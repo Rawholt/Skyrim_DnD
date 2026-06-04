@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://app.roll20.net/campaigns/details/21525026/sieviernyi-rassviet",
+      "displayName": "Roll20",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

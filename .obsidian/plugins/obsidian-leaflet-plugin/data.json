@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "skyrim-map",
-      "lastAccessed": 1779376508439,
+      "lastAccessed": 1780567773993,
       "markers": [
         {
           "id": "ID_4979ca298bd9",
@@ -152,12 +152,45 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb684a792809",
+          "type": "default",
+          "loc": [
+            -764.5000247955322,
+            1032.857750857348
+          ],
+          "layer": "%5B%5BSkyrimMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49fb681b0b6b",
+          "type": "default",
+          "loc": [
+            1166.2082754481157,
+            3296.6677323030704
+          ],
+          "layer": "%5B%5BSkyrimMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Maps/Карта скайрима.md"
+        "Maps/Карта скайрима.md",
+        "Maps/Новая карта (Leaflet).md"
       ]
     }
   ],

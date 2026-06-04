@@ -4,5 +4,7 @@
   "initiative-tracker",
   "obsidian-leaflet-plugin",
   "dataview",
-  "github-sync"
+  "github-sync",
+  "obsidian-custom-frames",
+  "obsidian-meta-bind-plugin"
 ]
